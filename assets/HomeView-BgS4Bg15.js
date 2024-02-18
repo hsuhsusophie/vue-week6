@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,F as s,a as e}from"./index-EMYReIpL.js";const a={},c=e("h1",null,"Home",-1),r=e("button",{type:"button",class:"btn btn-primary"},"Primary",-1);function _(l,m){return n(),o(s,null,[c,r],64)}const u=t(a,[["render",_]]);export{u as default};
